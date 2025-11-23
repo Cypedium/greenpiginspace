@@ -1,0 +1,39 @@
+Got it 👍 — you want a **Privacy Policy suitable for an app rated 3+ on Google Play**. That means the policy must be **simple, transparent, and compliant with Google Play’s Families Policy Requirements**. It should reassure parents that your app is safe for children, explain what data (if any) is collected, and how it’s used.  
+
+Here’s a **template you can adapt** for your app:
+
+---
+
+## 📜 Privacy Policy (for Apps Rated 3+)
+
+**Effective Date:** [Insert Date]  
+**Developer:** [Your Cypedium/Green Pig in Space]  
+
+### 1. Introduction  
+We value your privacy. This app is designed for users of all ages, including children. We follow Google Play’s Families Policy Requirements to ensure a safe and appropriate experience.
+
+### 2. Information We Collect  
+- **No personal information:** We do not collect names, email addresses, phone numbers, or other personal identifiers.  
+- **Non-personal data:** We may collect anonymous usage statistics (such as app performance, crash reports, or basic analytics) to improve the app.  
+
+### 3. How We Use Information  
+- To maintain and improve app functionality.  
+- To ensure a safe experience for children.  
+- We do not use data for targeted advertising.  
+
+### 4. Advertising & Third Parties  
+- If ads are shown, they are **family-friendly** and comply with Google Play’s Families Policy.  
+- We do not allow personalized ads or behavioral tracking for children.  
+- Third-party SDKs used in the app are approved for child-directed services.  
+
+### 5. Data Sharing  
+We do not share personal information with third parties. Non-personal data may be shared only in aggregated form (e.g., app usage statistics).  
+
+### 6. Security  
+We use reasonable measures to protect information and keep the app safe for children.  
+
+### 7. Parents’ Rights  
+Parents can contact us at [Your Contact Email] to ask questions or request deletion of any data that may have been collected.  
+
+### 8. Changes to This Policy  
+We may update this Privacy Policy from time to time. Updates will be posted within the app or on our website.  
